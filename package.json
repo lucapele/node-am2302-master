@@ -1,0 +1,16 @@
+{
+  "name": "am2302",
+  "version": "1.0.0",
+  "description": "AM2302 chipset API for node.js",
+  "main": "./build/Release/am2302.node",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/zhenglx/node-am2302",
+  "keywords": [
+    "DHT22",
+    "AM2302"
+  ],
+  "author": "zhenglx <ecjtuzlx@gmail.com>",
+  "license": "BSD"
+}
